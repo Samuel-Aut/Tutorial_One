@@ -11,7 +11,7 @@
   </a>
 </p>
 
-> How to Run the Scripts
+> How to Run the codes
 
 **1.Install Node.js:** Make sure Node.js is on your computer. Check by running:
 ```
