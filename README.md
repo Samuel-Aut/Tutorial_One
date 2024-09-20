@@ -21,7 +21,7 @@ node -v
 ```
 cd path/to/project/src
 ```
-**3.Install Dependencies:** If you haven't done this yet, install the necessary packages:
+**3.Install Dependencies:** install the necessary packages:
 ```
 npm install
 ```
