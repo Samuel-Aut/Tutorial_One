@@ -19,7 +19,7 @@ node -v
 ```
 **2.Go to the Project Folder:** Open your terminal and navigate to the folder with the scripts:
 ```
-cd path/to/your/project/src
+cd path/to/project/src
 ```
 **3.Install Dependencies:** If you haven't done this yet, install the necessary packages:
 ```
